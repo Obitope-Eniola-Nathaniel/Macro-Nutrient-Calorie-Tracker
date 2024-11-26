@@ -14,7 +14,7 @@ MacroTrack is a Django-based application designed to help users manage their die
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/MacroTrack.git
+   git clone https://github.com/<Obitope-Eniola-Nathaniel>/MacroTrack.git
    cd MacroTrack
 
 2. Set up a virtual environment and install dependencies:
